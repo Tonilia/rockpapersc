@@ -1,0 +1,6 @@
+c:\users\tecra\documents\visual studio 2015\Projects\New rock papergame\New rock papergame\bin\Debug\New rock papergame.exe.config
+C:\Users\TECRA\Documents\Visual Studio 2015\Projects\New rock papergame\New rock papergame\bin\Debug\New rock papergame.exe
+C:\Users\TECRA\Documents\Visual Studio 2015\Projects\New rock papergame\New rock papergame\bin\Debug\New rock papergame.pdb
+C:\Users\TECRA\Documents\Visual Studio 2015\Projects\New rock papergame\New rock papergame\obj\Debug\New rock papergame.csprojResolveAssemblyReference.cache
+C:\Users\TECRA\Documents\Visual Studio 2015\Projects\New rock papergame\New rock papergame\obj\Debug\New rock papergame.exe
+C:\Users\TECRA\Documents\Visual Studio 2015\Projects\New rock papergame\New rock papergame\obj\Debug\New rock papergame.pdb
